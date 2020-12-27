@@ -1,0 +1,24 @@
+{
+  "name": "12-26-20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "init": "^0.1.2",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.11.8",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.6",
+    "uuid": "^8.3.2",
+    "yes": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
